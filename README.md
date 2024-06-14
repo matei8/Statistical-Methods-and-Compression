@@ -25,6 +25,9 @@ In the navigation menu on the left, find the previously downloaded source and do
 ### Option 3: VSCode - local
 Just download the file and open it with VSCode. It will prompt you to install the necessary extensions.
 
+### Laboratories Description:
+For every laboratory is was used a Jupyter Notebook for accurate and detailed description for every algorithm, so there is no need for a README for the algorithms.
+
 ## FAQ
 Q: I keep trying to install `numpy` or `scipy`, but it says that I don't have it installed when I try to import.
 
